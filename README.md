@@ -1,0 +1,26 @@
+
+![Car Sales Overview](https://github.com/shubhamupadhyaygit/CAR-Sales-Analysis/assets/166925201/81e54d64-ad15-4d16-b36e-84cf8a828f5a)
+Dashboard Link: https://public.tableau.com/app/profile/shubham.upadhyay4214/viz/DashboardView_17161198894720/Dashboard1
+🚗 Car Sales Overview: A Detailed Analysis 📊
+
+1️⃣ Year-Over-Year Growth 📈
+This year, the car sales market has experienced a significant upswing! Sales have surged by an impressive 23.59%, with the selling quantity also increasing by 24.57% compared to the previous year. Interestingly, despite this growth, the average price of cars has slightly declined by -0.79%. This trend suggests a strategic pricing approach to boost volume.
+
+2️⃣ Weekly Sales Trend 📅
+Analyzing the weekly sales trend reveals a zig-zag pattern with fluctuations throughout the period. However, the overall trend from the start to the end of the week shows a remarkable increase, highlighting a robust upward momentum in the market.
+
+3️⃣ Top Body Styles 🚙🚗
+When it comes to body styles, SUVs and Hatchbacks are leading the pack! SUVs top the chart with sales of 99.89M units, closely followed by Hatchbacks at 82.77M units. These two styles have outperformed other body styles significantly.
+
+4️⃣ Color Preference 🎨
+In terms of color preference, White cars dominate the market with sales of 174.53M units. On the other end of the spectrum, Red cars are at the bottom with 71.41M units sold. It's clear that white remains the preferred choice for many car buyers.
+
+5️⃣ Transmission Type Preference ⚙️
+Auto transmission cars consistently outsell manual transmission models across all dealer regions. This trend underscores the growing preference for convenience and ease of driving among consumers.
+
+6️⃣ Top Selling Companies 🏆
+Chevrolet and Ford stand out as the highest car-selling companies, both in terms of quantity and revenue. Their strong performance highlights their continued dominance and popularity in the automotive market.
+
+This analysis paints a vibrant picture of the current car sales landscape, showcasing significant growth and interesting trends in consumer preferences. 🚀
+
+#CarSales #MarketAnalysis #AutomotiveIndustry #DataAnalytics #SalesTrends #LinkedInAnalysis
